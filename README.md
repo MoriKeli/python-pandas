@@ -11,11 +11,11 @@ In this project I used 2019 survey report. Click the ![2019 View Results.Downloa
 
 3. Once download is complete, create a folder called "data" in base directory of this project and extract the zip file in the data folder.
 4. Create a virtual environment by typing the following command on your terminal;
-  - python -m venv .env
+    - python -m venv .env
 5. Activate your virtual enviroment.
-  a. Windows
-    - project-folder-path\.env\Scripts\activate.bat
-  b. Linux
-    - source project-folder-path/.env/bin/activate
+    ##### a. Windows
+      - project-folder-path\.env\Scripts\activate.bat
+    ##### b. Linux
+      - source project-folder-path/.env/bin/activate
     
 6. Install jupyter lab, jupyter notebook, voila in your virtual environment via pip (Python Package Installer). Check out ![Jupyter notebook installation](https://jupyter.org/install)
